@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm da</h1>
+  <h3>Beginner developer, I want to become a Jedi</h3>
+<div>
+
 
 <!--
 **daniilantonenko/daniilantonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My stat
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilantonenko&theme=vision_friendly_dark)
